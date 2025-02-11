@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 oh si oh si
 
 Sofia es una gorda 
+=======
+Hola mundo 3.0
+>>>>>>> login
